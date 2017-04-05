@@ -17,7 +17,7 @@ public class StudentInfo {
 
 	System.out.println("************************************************************");
 	System.out.println("************* Prenom et Nom: Walid Bounouar ****************");
-	System.out.println("*************     No. Etudiant: 8917791     ****************");
+	System.out.println("*************     No. Etudiant:             ****************");
 	System.out.println("*************     Section de cours :A00     ****************");
 	System.out.println("*************           Devoir #4           ****************");
 	System.out.println("************************************************************");
